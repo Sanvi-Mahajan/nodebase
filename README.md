@@ -59,6 +59,7 @@ Nodebase is a workflow orchestration platform built with Next.js, TypeScript, tR
 git clone <YOUR_REPOSITORY_URL>
 cd <YOUR_REPOSITORY_DIRECTORY>
 npm install
+```
 
 **Author**
 Sanvi Mahajan ヽ(✿ﾟ▽ﾟ)ノ
